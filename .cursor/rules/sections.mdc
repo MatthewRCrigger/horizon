@@ -1,8 +1,9 @@
 ---
-description: Section coding standards and best practices guide
-globs: sections/*.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Section Development Standards
 
 ## Section Requirements

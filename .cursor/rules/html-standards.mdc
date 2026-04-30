@@ -1,8 +1,9 @@
 ---
 description:
-globs: *.liquid
+globs:
 alwaysApply: false
 ---
+
 # Modern HTML Standards
 
 Use the latest evergreen browser features for better user experience and simpler code.

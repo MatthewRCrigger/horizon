@@ -1,8 +1,9 @@
 ---
-description: Breadcrumb component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Breadcrumb Accessibility
 
 Ensures breadcrumb components follow WCAG compliance and WAI-ARIA Breadcrumb Pattern specifications.

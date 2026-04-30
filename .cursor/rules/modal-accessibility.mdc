@@ -1,8 +1,9 @@
 ---
-description: Modal window accessibility compliance and ARIA Dialog Pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Modal Window Accessibility Standards
 
 Ensures modal windows follow WCAG compliance and ARIA Dialog Pattern specifications.

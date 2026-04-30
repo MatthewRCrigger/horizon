@@ -1,6 +1,6 @@
 ---
-description: Enforce animation accessibility standards per WCAG 2.2.2 Pause Stop Hide, 2.3.1 Three Flashes or Below Threshold, and 2.3.3 Animation from Interactions requirements
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.css, *.scss, *.sass, *.less
+description:
+globs:
 alwaysApply: false
 ---
 

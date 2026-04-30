@@ -1,8 +1,9 @@
 ---
 description:
-globs: snippets/*.liquid
+globs:
 alwaysApply: false
 ---
+
 # Snippet Development Standards
 
 ## Snippet Documentation

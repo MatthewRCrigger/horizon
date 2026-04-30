@@ -1,8 +1,9 @@
 ---
-description: Dropdown Navigation component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Dropdown Navigation Component Accessibility Standards
 
 Ensures dropdown navigation components follow WCAG compliance and proper navigation semantics, including mobile modal patterns and disclosure controls.

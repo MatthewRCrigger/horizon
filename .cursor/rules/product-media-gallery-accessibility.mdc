@@ -1,6 +1,6 @@
 ---
-description: Enforce product media gallery component accessibility standards and proper landmark structure for media galleries
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
 

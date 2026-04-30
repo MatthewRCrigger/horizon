@@ -1,8 +1,9 @@
 ---
-description: Landmark element accessibility compliance and WCAG 2.4.1 Bypass Blocks requirements
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
-alwaysApply: true
+description:
+globs:
+alwaysApply: false
 ---
+
 # Landmark Element Accessibility Standards
 
 Ensures landmark elements follow WCAG compliance and provide proper content structure for screen reader navigation and bypass blocks functionality.

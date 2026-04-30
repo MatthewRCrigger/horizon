@@ -1,8 +1,9 @@
 ---
 description:
-globs: templates/*.json
+globs:
 alwaysApply: false
 ---
+
 # Templates
 
 All JSON templates must follow this exact structure:

@@ -1,7 +1,7 @@
 ---
-description: Focus order and focus styles accessibility standards per WCAG 2.4.7 Focus Visible, 1.4.11 Non-Text Contrast, 2.4.13 Focus Appearance, and 2.4.11 Focus Not Obscured requirements
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid, *.css, *.scss, *.sass, *.less
-alwaysApply: true
+description:
+globs:
+alwaysApply: false
 ---
 
 # Focus Order and Focus Styles Accessibility Standards

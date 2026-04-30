@@ -1,8 +1,9 @@
 ---
-description: Tab component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Tab Component Accessibility Standards
 
 Ensures tab components follow WCAG compliance and WAI-ARIA Tab Pattern specifications.

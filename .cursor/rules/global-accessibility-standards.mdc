@@ -1,7 +1,7 @@
 ---
-description: Global scope accessibility standards per WCAG requirements for page language, viewport, title attributes, and skip links
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
-alwaysApply: true
+description:
+globs:
+alwaysApply: false
 ---
 
 # Global Scope Accessibility Standards

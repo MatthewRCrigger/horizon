@@ -1,8 +1,9 @@
 ---
-description: Combobox component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Combobox Component Accessibility Standards
 
 Ensures combobox components follow WCAG compliance and WAI-ARIA Combobox Pattern specifications.

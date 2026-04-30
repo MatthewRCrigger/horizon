@@ -1,8 +1,9 @@
 ---
-description: Image alternative text accessibility compliance and WCAG 2.2 requirements
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid, *.css, *.scss, *.sass, *.less
-alwaysApply: true
+description:
+globs:
+alwaysApply: false
 ---
+
 # Image Alt Text Accessibility Standards
 
 Ensures images have appropriate alternative text following WCAG 2.2 requirements for informative, decorative, and functional images.

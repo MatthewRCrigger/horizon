@@ -1,8 +1,9 @@
 ---
-description: Flip Card component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Flip Card Component Accessibility Standards
 
 Ensures flip card components follow WCAG compliance and provide proper state management for screen reader users.

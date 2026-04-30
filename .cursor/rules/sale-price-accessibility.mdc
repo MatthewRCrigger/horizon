@@ -1,8 +1,9 @@
 ---
-description: Sale price component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Sale Price Component Accessibility Standards
 
 Ensures sale price components follow WCAG compliance and provide proper context for screen reader users.

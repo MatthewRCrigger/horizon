@@ -1,8 +1,9 @@
 ---
-description: Text and user interface color contrast compliance with WCAG 2.2 1.4.3 and 1.4.11
-globs: *.css, *.scss, *.sass, *.less, *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts
-alwaysApply: true
+description:
+globs:
+alwaysApply: false
 ---
+
 # Color Contrast Accessibility Standards
 
 Ensures color contrast meets WCAG 2.2 1.4.3: Contrast (Minimum) and 1.4.11: Non-text Contrast requirements.

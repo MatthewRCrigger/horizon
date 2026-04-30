@@ -1,8 +1,9 @@
 ---
-description: Tooltip component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Tooltip Component Accessibility Standards
 
 Ensures tooltip components follow WCAG compliance and WAI-ARIA Tooltip Pattern specifications.

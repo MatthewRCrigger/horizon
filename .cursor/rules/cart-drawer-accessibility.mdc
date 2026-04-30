@@ -1,8 +1,9 @@
 ---
-description: Cart drawer component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Cart Drawer Component Accessibility Standards
 
 Ensures cart drawer components follow WCAG compliance and ARIA Dialog Pattern specifications for ecommerce applications.

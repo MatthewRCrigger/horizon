@@ -1,6 +1,6 @@
 ---
-description: Development standards and best practices for creating/configuring/styling theme blocks, including static and nested blocks, schema configuration, CSS, and usage examples
-globs: blocks/*.liquid
+description:
+globs:
 alwaysApply: false
 ---
 

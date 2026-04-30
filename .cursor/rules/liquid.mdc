@@ -1,6 +1,6 @@
 ---
-description: Liquid syntax standards
-globs: *.liquid
+description:
+globs:
 alwaysApply: false
 ---
 

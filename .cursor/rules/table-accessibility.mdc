@@ -1,8 +1,9 @@
 ---
-description: Table element accessibility compliance
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
-alwaysApply: true
+description:
+globs:
+alwaysApply: false
 ---
+
 # Table Element Accessibility Standards
 
 Ensures table elements follow WCAG compliance and provide proper structure for screen reader navigation and data relationships.

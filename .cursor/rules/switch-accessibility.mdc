@@ -1,8 +1,9 @@
 ---
-description: Switch component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Switch Component Accessibility Standards
 
 Ensures switch components follow WCAG compliance and WAI-ARIA Switch Pattern specifications.

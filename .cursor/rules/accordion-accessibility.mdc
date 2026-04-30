@@ -1,6 +1,6 @@
 ---
-description: Accordion component accessibility compliance and WAI-ARIA Accordion Pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
 

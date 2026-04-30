@@ -1,8 +1,9 @@
 ---
-description: Chat window component accessibility compliance and WCAG compliance for real-time communication features
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Chat Window Component Accessibility Standards
 
 Ensures chat window components follow WCAG compliance and provide proper accessibility for real-time communication, notifications, and assistive technology support.

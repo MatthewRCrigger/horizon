@@ -1,6 +1,6 @@
 ---
-description: Mobile accessibility standards per WCAG 2.5.8 Target Size (Minimum), 2.4.1 Bypass Blocks, and 1.3.4 Orientation requirements
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.css, *.scss, *.sass, *.less
+description:
+globs:
 alwaysApply: false
 ---
 

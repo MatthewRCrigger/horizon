@@ -1,6 +1,6 @@
 ---
 description:
-globs: blocks/*.liquid,sections/*.liquid,schemas/*
+globs:
 alwaysApply: false
 ---
 

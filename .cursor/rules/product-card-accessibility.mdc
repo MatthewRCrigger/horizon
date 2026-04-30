@@ -1,8 +1,9 @@
 ---
-description: Product card accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Product Card Component Accessibility Standards
 
 Ensures product card components follow WCAG compliance and implement proper single tab-stop navigation for keyboard and screen reader users.

@@ -1,8 +1,9 @@
 ---
-description: Static files (css, js, and images) for theme templates
-globs: assets/*
+description:
+globs:
 alwaysApply: false
 ---
+
 # Assets
 
 The assets directory contains any assets that need to be referenced within a `.liquid` file, usually using the [asset_url](mdc:https:/shopify.dev/docs/api/liquid/filters/asset_url) Liquid filter.

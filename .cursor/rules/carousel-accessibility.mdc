@@ -1,8 +1,9 @@
 ---
-description: Carousel component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Carousel Accessibility Standards
 
 Ensures carousel components follow WCAG compliance and WAI-ARIA Carousel Pattern specifications.

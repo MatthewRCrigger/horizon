@@ -1,8 +1,9 @@
 ---
-description: Locales coding standards and best practices guide
-globs: locales/*.json
+description:
+globs:
 alwaysApply: false
 ---
+
 # Translation Development Standards
 
 Auto-attached when working in `locales/` directory.

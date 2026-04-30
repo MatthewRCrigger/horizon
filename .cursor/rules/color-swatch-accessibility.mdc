@@ -1,8 +1,9 @@
 ---
-description: Color swatch component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Color Swatch Variant Selector Component Accessibility Standards
 
 Ensures color swatch variant selectors follow WCAG compliance and provide proper accessibility for all users.

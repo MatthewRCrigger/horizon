@@ -1,8 +1,9 @@
 ---
-description: Disclosure component accessibility compliance pattern
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
+description:
+globs:
 alwaysApply: false
 ---
+
 # Disclosure Component Accessibility Standards
 
 Ensures disclosure components follow WCAG compliance and WAI-ARIA Disclosure Pattern specifications.

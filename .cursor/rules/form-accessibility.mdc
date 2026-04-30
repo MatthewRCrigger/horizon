@@ -1,7 +1,7 @@
 ---
-description: Form component accessibility standards and WCAG compliance for form inputs, labels, instructions, and error handling
-globs: *.vue, *.jsx, *.tsx, *.html, *.php, *.js, *.ts, *.liquid
-alwaysApply: true
+description:
+globs:
+alwaysApply: false
 ---
 
 # Form Accessibility Standards
