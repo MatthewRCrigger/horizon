@@ -1,0 +1,6 @@
+.DS_Store
+
+shopify.theme.toml
+
+#Ignore cursor AI rules
+.cursor/rules/codacy.mdc
